@@ -1,0 +1,6 @@
+2022-08-18 18:41:12,459 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 17.0.1 on LAPTOP-84BVIRRA with PID 17560 (G:\Project\TweetApp_Comp2\TweetApp-SpringBoot\target\classes started by shara in G:\Project\TweetApp_Comp2\TweetApp-SpringBoot)
+2022-08-18 18:41:12,465 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-18 18:41:14,636 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 2.503 seconds (JVM running for 3.206)
+2022-08-18 21:00:45,610 INFO com.tweetapp.TweetAppApplication [main] Starting TweetAppApplication using Java 17.0.1 on LAPTOP-84BVIRRA with PID 19520 (G:\Project\TweetApp_Comp2\TweetApp-SpringBoot\target\classes started by shara in G:\Project\TweetApp_Comp2\TweetApp-SpringBoot)
+2022-08-18 21:00:45,611 INFO com.tweetapp.TweetAppApplication [main] The following profiles are active: nonprod
+2022-08-18 21:00:47,860 INFO com.tweetapp.TweetAppApplication [main] Started TweetAppApplication in 2.507 seconds (JVM running for 3.129)
